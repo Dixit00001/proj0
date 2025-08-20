@@ -61,8 +61,3 @@ return 1 if n == 0 else n * factorial(n-1)
 ---
 
 <footer>Maintained in GitHub and optimized for technical documentation presentation.</footer>
-
-
-
-## Code Example
-

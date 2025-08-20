@@ -45,6 +45,25 @@ $$
 T(n) = O(n \log n) + O(n) = O(n \log n)
 $$
 
+def factorial(n):
+return 1 if n == 0 else n * factorial(n-1)
+
+text
+
+---
+
+## Summary
+
+- Custom themes with CSS  
+- Page numbers enabled  
+- Background images supported  
+- Math equations using KaTeX  
+- Supports multi-format export with Marp CLI
+
+---
+
+<footer>Maintained in GitHub and optimized for technical documentation presentation.</footer>
+
 ---
 
 ## Code Example

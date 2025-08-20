@@ -23,7 +23,7 @@ Maintainable, version controllable, and easily convertible.
 
 ---
 
-![bg cover](images/background.jpg)
+![bg cover](https://raw.githubusercontent.com/Dixit00001/proj0/main/images/background.jpg)
 
 ## Background Image Slide
 

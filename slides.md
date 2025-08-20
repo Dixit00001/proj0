@@ -46,3 +46,21 @@ $$
 
 ## Code Example
 
+```python
+def factorial(n):
+    return 1 if n == 0 else n * factorial(n-1)
+```
+
+---
+
+## Summary
+
+- Custom themes with CSS  
+- Page numbers enabled  
+- Background images supported  
+- Math equations using KaTeX  
+- Supports multi-format export with Marp CLI
+
+---
+
+<footer>Maintained in GitHub and optimized for technical documentation presentation.</footer>
